@@ -1,1 +1,1 @@
-# Amozon:- it's a  Amozon clone whcih is design by using Html and css
+# Amozon:- it's a  Amozon clone which is design by using Html and css
